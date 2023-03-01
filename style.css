@@ -1,0 +1,95 @@
+#headerContainer {
+    display: flex;
+    background-color: #808080;
+}
+
+#navImage {
+    margin-left: 40px;
+}
+
+#navContainer {
+    padding-left: 15px;
+    margin-left: 150px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 100px;
+    min-width: 50px;
+}
+
+nav ul {
+    padding-top: 25px;
+    display: flex;
+}
+
+#imageContainer2 {
+    padding-top: 30px;
+    margin: auto;
+    width: 960px;
+}
+
+#imageContainer3 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+#mainImage2 {
+    display: flex;
+    padding-top: 30px;
+    width: 960px;
+}
+
+#second {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin: auto;
+}
+
+#text {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-top: 0px;
+    padding-left: 30px;
+}
+
+#text p {
+    display: block;
+    max-height: 300px;
+    overflow: scroll;
+}
+
+#second h1 {
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#second img {
+    width: 50%;  
+}
+
+button:hover {
+    background-color: blue;
+    transition-duration: 350s;
+    width: 100px
+}
+
+button {
+    background-color: #808080;
+    transition-duration: 350ms;
+    margin-top: 20px;
+    width: 100px;
+}
+
+footer {
+    background-color: #808080;
+    padding-top: 60px;
+}
