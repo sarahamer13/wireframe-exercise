@@ -4,12 +4,17 @@
 }
 
 #navImage {
-    margin-left: 40px;
+    margin-left: 230px;
+    height: 70px; 
+    width: 225px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+   
 }
 
 #navContainer {
     padding-left: 15px;
-    margin-left: 150px;
+    margin-left: 20px;
 }
 
 nav li {
@@ -91,5 +96,5 @@ button {
 
 footer {
     background-color: #808080;
-    padding-top: 60px;
+    padding-top: 75px;
 }
